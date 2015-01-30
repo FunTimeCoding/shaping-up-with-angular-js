@@ -1,6 +1,6 @@
 # Angular Tutorial
 
-Using NPM, rather than bower.
+Using NPM, rather than bower. [The tutorial can be found here.](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 
 
 ## Development
