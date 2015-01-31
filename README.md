@@ -17,3 +17,10 @@ Open the application in a browser.
 ```sh
 open index.html
 ```
+
+Run local python webserver to avoid browser security issues with asynchronous requests.
+
+```sh
+python -m SimpleHTTPServer 8081
+open http://localhost:8081
+```
