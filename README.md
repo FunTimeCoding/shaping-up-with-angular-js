@@ -1,9 +1,9 @@
-# Angular Tutorial
+# Shaping up with Angular.js
 
-Using NPM, rather than bower. [The tutorial can be found here.](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
+[The tutorial can be found here.](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 
 
-## Development
+## Operation
 
 Install dependencies.
 
@@ -12,15 +12,14 @@ npm install angular
 npm install bootstrap
 ```
 
-Open the application in a browser.
-
-```sh
-open index.html
-```
-
 Run local python webserver to avoid browser security issues with asynchronous requests.
 
 ```sh
 python -m SimpleHTTPServer 8081
+```
+
+Open the application in a browser.
+
+```sh
 open http://localhost:8081
 ```
