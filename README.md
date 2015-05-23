@@ -8,6 +8,7 @@
 Install dependencies.
 
 ```sh
+cd web
 npm install angular
 npm install bootstrap
 ```
@@ -15,6 +16,7 @@ npm install bootstrap
 Run local python webserver to avoid browser security issues with asynchronous requests.
 
 ```sh
+cd web
 python -m SimpleHTTPServer 8081
 ```
 
